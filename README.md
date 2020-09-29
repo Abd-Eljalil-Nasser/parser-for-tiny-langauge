@@ -1,5 +1,10 @@
 # parser-for-tiny-langauge
+### Requirements :
+- c++ 
+- Qt creator 
+
 ### The Parsing Process :
+
 - it is the task of the parser to determine the syntactic
 structure of a program from the tokens produced by
 the scanner and to construct a parse tree or syntax
@@ -46,3 +51,35 @@ term -> term mulop factor | factor
 mulop -> * | /
 
 factor -> (exp) | number | identifier
+
+### Syntax Tree Structure for the TINY compiler
+
+- In TINY there are two basic kinds of structures:
+  statements and expressions.
+  
+- There are five kind of statements (if
+  statements, repeat statements, assign
+  statements, read statements, and write
+  statements) and three kinds of expressions (
+  operator expression, constant expressions,
+  and identifier expressions).
+  
+- We want now to give a visual description of the
+  syntax tree structure and show visually the syntax
+  tree for a sample program.
+  
+- We use rectangular boxes to indicate statement
+  nodes and round or oval boxes to indicate
+  expression nodes.
+  
+- The kind of statement or expression will be given
+  as a label inside the box.
+
+- Sibling pointers will be drawn to the right of node
+  boxes, while child pointers will be drawn below
+  the boxes.
+
+- Indicate additional, unspecified tree structures in
+  diagrams by triangles, with dashed lines to
+  indicate structures that may or may not appear.
+
