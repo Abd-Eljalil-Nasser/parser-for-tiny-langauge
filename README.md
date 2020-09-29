@@ -1,9 +1,9 @@
-# parser-for-tiny-langauge
-### Requirements :
+# parser for tiny langauge
+### Requirements 
 - c++ 
 - Qt creator 
 
-### The Parsing Process :
+### The Parsing Process 
 
 - it is the task of the parser to determine the syntactic
 structure of a program from the tokens produced by
@@ -92,3 +92,12 @@ factor -> (exp) | number | identifier
 ![](https://github.com/Abd-Eljalil-Nasser/parser-for-tiny-langauge/blob/master/write%20stmt.png)
 
 ![](https://github.com/Abd-Eljalil-Nasser/parser-for-tiny-langauge/blob/master/op%20expression.png)
+
+### input 
+- TINY language snippet code ( multiple lines of code written in TINY language syntax). The program will do the scanning process first     (get token value and token type then do the parsing process ) 
+
+### output 
+- State whether the statements are accepted by TINY language or not
+- Draw Syntax tree
+
+### Test 
