@@ -83,3 +83,12 @@ factor -> (exp) | number | identifier
   diagrams by triangles, with dashed lines to
   indicate structures that may or may not appear.
 
+![](https://github.com/Abd-Eljalil-Nasser/parser-for-tiny-langauge/blob/master/if%20stmt.png)
+
+![](https://github.com/Abd-Eljalil-Nasser/parser-for-tiny-langauge/blob/master/repeat%20.png)
+
+![](https://github.com/Abd-Eljalil-Nasser/parser-for-tiny-langauge/blob/master/Assign%20stmt.png)
+
+![](https://github.com/Abd-Eljalil-Nasser/parser-for-tiny-langauge/blob/master/write%20stmt.png)
+
+![](https://github.com/Abd-Eljalil-Nasser/parser-for-tiny-langauge/blob/master/op%20expression.png)
