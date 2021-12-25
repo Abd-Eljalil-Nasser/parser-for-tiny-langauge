@@ -101,3 +101,9 @@ factor -> (exp) | number | identifier
 - Draw Syntax tree
 
 ### Test 
+#### test 1 
+![](https://github.com/Abd-Eljalil-Nasser/parser-for-tiny-langauge/blob/master/parser_test_1.png)
+![](https://github.com/Abd-Eljalil-Nasser/parser-for-tiny-langauge/blob/master/parser_test_1.2.png)
+#### test 2 
+![](https://github.com/Abd-Eljalil-Nasser/parser-for-tiny-langauge/blob/master/paser_test_2.png)
+![](https://github.com/Abd-Eljalil-Nasser/parser-for-tiny-langauge/blob/master/paser_test_2.1png.png)
